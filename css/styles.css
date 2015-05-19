@@ -1,0 +1,74 @@
+img {
+	margin: 10px;
+	box-shadow: 2px 2px 1px;
+}
+
+aside {
+	font-size: small;
+}
+
+.contains {
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-radius: 0.3rem 0.3rem 0 0;
+    border-bottom: none;
+    height: 16em;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.contains p {
+    color: #333;
+}
+
+a:hover .contains p {
+    color: #111;
+}
+
+.resume {
+}
+
+.alticalc {
+    background-image: url('/img/alticalc.png');
+    background-size: cover;
+}
+
+.stories {
+    background-image: url('/img/stories.png');
+    background-size: cover;
+}
+
+.hma {
+    background-image: url('/img/meatloaf.png');
+    background-size: cover;
+}
+
+.lab {
+    background-image: url('/img/thermoelectric.png');
+    background-size: contain;
+}
+
+.solartime {
+    background-image: url('/img/solartime.png');
+    background-size: cover;
+}
+
+.techcommittee {
+    background-image: url('/img/techcommittee.png');
+    background-size: contain;
+}
+
+.players {
+    background-image: url('/img/players.png');
+    background-size: contain;
+}
+
+.cicada {
+    background-image: url('/img/cicada.png');
+    background-size: cover;
+}
+
+.msd {
+    background-image: url('/img/msd.png');
+    background-size: contain;
+}
